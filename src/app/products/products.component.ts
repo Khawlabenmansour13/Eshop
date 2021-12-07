@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+npm import { Component, OnInit } from '@angular/core';
 import {Product} from '../model/product';
 
 @Component({
